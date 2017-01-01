@@ -1,0 +1,12 @@
+git
+git-client
+git-changelog
+git-parameter
+maven-plugin
+subversion
+notification
+build-name-setter
+text-file-operations
+block-queued-job
+jacoco
+cobertura
